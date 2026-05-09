@@ -2,4 +2,5 @@ Conway's game of life implementation in C using raylib.
 
 Draw with left click, erase with ctrl + left click, start simulating with spacebar, restart the board with r.
 
-<iframe width="560" height="315" src="https://youtu.be/IE8ilkusPVQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Conway's game of life implemented in C with raylib.](https://img.youtube.com/vi/IE8ilkusPVQ/0.jpg)](https://www.youtube.com/watch?v=IE8ilkusPVQ)
